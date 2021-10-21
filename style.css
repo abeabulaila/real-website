@@ -1,3 +1,69 @@
 body {
     background: rgb(139, 139, 231);
 }
+.wrapper {
+    margin: 0 auto;
+    width: 45%;
+  }
+
+h1 {
+    margin: 0 auto;
+    width: 10%;
+}
+
+img {
+    max-width: 50%;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 15px;
+   float: none;
+   width: 1000px;
+   height: fit-content;
+}
+
+h3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#content {
+    padding: 20px;
+    background: rgb(98, 98, 223);
+
+}
+
+p {
+    font-family:monospace;
+    font-size: 17px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#text1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding: 10px;
+
+} 
+
+label {
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 45%;
+}
+
+#btn1 {
+  width: 50px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  display: block;
+}

@@ -1,3 +1,11 @@
-const h2 = document.createElement("h2");
-h2.textContent = "Welcome to my domain";
-document.querySelector("body").appendChild(h2);
+
+
+function answerReveal(){
+    var str = document.getElementById("text1").value;
+    if (str === "Lynx") {
+        alert("Correct!"); 
+    }
+        else { alert("Try again :(");
+}       
+ }
+
